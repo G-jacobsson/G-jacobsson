@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my programming skills in the Blockchain Developer program @ Medieinstitutet
-- 🌱 I’m currently learning HTML/CSS and Jaavascript
+- 🌱 I’m currently learning HTML/CSS and Javascript
 - 👯 I’m looking to collaborate on any fun Web3 projects to practice my skills
 - 💬 Ask me about anything!
 - 📫 How to reach me: geo.jacobsson@gmail.com
