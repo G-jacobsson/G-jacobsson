@@ -12,4 +12,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: geo.jacobsson@gmail.com
 - ⚡ Fun fact: I'm an acting alumni @ The American Academy of Dramtic Arts, Los Angeles 🎭
 
+  - [LinkedIn](https://www.linkedin.com/in/gert-ove-eng-jacobsson-92690b1b4/)
+
 #### Follow and see what I'm up to! 🦆
