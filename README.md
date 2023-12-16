@@ -17,4 +17,4 @@ Here are some ideas to get you started: -->
   - [E-mail](mailto:geo.jacobsson@gmail.com)
 
 _________________________________________________________________________________________________________
-#### Hit follow and see what I'm up to and how I progress! 🦆
+#### 🦆 Hit follow and see what I'm up to and how I progress! 🦆
