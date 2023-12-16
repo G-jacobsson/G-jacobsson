@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 
   - [LinkedIn](https://www.linkedin.com/in/gert-ove-eng-jacobsson-92690b1b4/)
   - [GitHub](https://github.com/G-jacobsson)
-  - [E-mail](mailto:geo.jacobssonm@gmail.com)
+  - [E-mail](mailto:geo.jacobsson@gmail.com)
 
 #### Follow and see what I'm up to! 🦆
