@@ -13,8 +13,8 @@ Here are some ideas to get you started: -->
 ### Contact me 📲
 
   - [LinkedIn](https://www.linkedin.com/in/gert-ove-eng-jacobsson-92690b1b4/)
-  - [GitHub](https://github.com/G-jacobsson)
   - [E-mail](mailto:geo.jacobsson@gmail.com)
+  - [GitHub](https://github.com/G-jacobsson)
 
 _________________________________________________________________________________________________________
 #### 🦆 Hit follow and see what I'm up to and how I progress! 🦆
