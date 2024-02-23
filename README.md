@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my programming skills in the Blockchain Developer program @ Medieinstitutet
-- 🌱 I’m currently learning Javascript & Typescript in a Test Driven Development environment
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any Web3 projects to practice my skills
 - ⚡ I'm a big cinephile and some of my favorite directors are Darren Aronofsky, Denis Villenueve, Alex Garland, David Fincher and Christopher Nolan 🎭
 
